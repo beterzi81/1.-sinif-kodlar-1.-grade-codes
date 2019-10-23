@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571688985 source:c:\users\asus\desktop\kodlar\adanzye\main.c
+	<stdio.h>
+	<stdlib.h>
+

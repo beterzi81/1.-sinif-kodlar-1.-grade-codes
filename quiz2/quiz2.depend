@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571868578 source:c:\users\asus\desktop\kodlar\quiz2\main.c
+	<stdio.h>
+	<stdlib.h>
+
